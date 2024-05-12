@@ -1,6 +1,6 @@
 # ANAMOLY-DETECTION-
 Anomaly detection is a technique used in various fields, including data science, cybersecurity, finance, and industrial systems, to identify rare or unusual patterns or observations that do not conform to expected behavior. The goal is to distinguish anomalies from normal behavior in datasets or systems.
-
+<img width="1280" alt="Screenshot 2024-05-12 at 6 25 01 PM" src="https://github.com/ADIK009/ANAMOLY-DETECTION-/assets/163897534/690f34d1-285f-4ed2-995a-1303b642c29e">
 **Project Purpose:**
 - Detect anomalies or outliers in data sets.
 - Identify deviations from normal behavior or patterns.

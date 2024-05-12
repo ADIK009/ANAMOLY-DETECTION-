@@ -1,6 +1,6 @@
 # ANAMOLY-DETECTION-
 Anomaly detection is a technique used in various fields, including data science, cybersecurity, finance, and industrial systems, to identify rare or unusual patterns or observations that do not conform to expected behavior. The goal is to distinguish anomalies from normal behavior in datasets or systems.
-<img width="1280" alt="Screenshot 2024-05-12 at 6 25 01 PM" src="https://github.com/ADIK009/ANAMOLY-DETECTION-/assets/163897534/690f34d1-285f-4ed2-995a-1303b642c29e">
+
 **Project Purpose:**
 - Detect anomalies or outliers in data sets.
 - Identify deviations from normal behavior or patterns.
@@ -33,3 +33,20 @@ Anomaly detection is a technique used in various fields, including data science,
 - **Feedback Loop and Adaptation:**
   - Incorporating feedback mechanisms to continuously improve anomaly detection models.
   - Adaptive algorithms that can adjust to changing data patterns and environments over time.
+
+Few Screenshots of project :- 
+
+<img width="1280" alt="Screenshot 2024-05-12 at 6 25 01 PM" src="https://github.com/ADIK009/ANAMOLY-DETECTION-/assets/163897534/a4504715-2cb9-4e89-a089-6ca898fd8c67">
+
+<img width="1280" alt="Screenshot 2024-05-12 at 6 25 22 PM" src="https://github.com/ADIK009/ANAMOLY-DETECTION-/assets/163897534/14da5183-67b5-40c4-8c60-f1ba5d1ac28c">
+
+<img width="1280" alt="Screenshot 2024-05-12 at 6 25 26 PM" src="https://github.com/ADIK009/ANAMOLY-DETECTION-/assets/163897534/b57177e6-e5d2-4e9b-affd-5a03ecd86d3f">
+
+<img width="1280" alt="Screenshot 2024-05-12 at 6 25 28 PM" src="https://github.com/ADIK009/ANAMOLY-DETECTION-/assets/163897534/c27a4e57-aa32-4980-b44e-585a7b410bcd">
+
+<img width="1280" alt="Screenshot 2024-05-12 at 6 25 30 PM" src="https://github.com/ADIK009/ANAMOLY-DETECTION-/assets/163897534/e045b9fd-9598-4cca-8e55-d1df573db6c9">
+
+<img width="1280" alt="Screenshot 2024-05-12 at 6 25 33 PM" src="https://github.com/ADIK009/ANAMOLY-DETECTION-/assets/163897534/4a15860f-0c2c-49a0-90c7-6672faacb498">
+
+
+
